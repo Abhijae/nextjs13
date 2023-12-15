@@ -8,7 +8,7 @@ export default function Navbar() {
         
           <h1>Dojo help desk</h1>
           <Link href="/">Dashboard</Link>
-          <Link href="/tickets">Tickets</Link>
+          <Link href="/tickets">Tickets HELLO</Link>
         </nav>
   )
 }
